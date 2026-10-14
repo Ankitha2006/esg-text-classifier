@@ -1,0 +1,4 @@
+Pillar,Train rows,Test rows,Accuracy,F1 (Yes class),Macro F1
+Environmental,3120,780,0.947,0.935,0.945
+Social,3120,780,0.929,0.921,0.929
+Governance,3120,780,0.919,0.894,0.914
